@@ -29,6 +29,7 @@ Update Section :
 2. Providers and sponsors can 
    a. update what materials have been dispatched and to where 
    b. Means of material transportation with emergency status
+3. Search engine for people to display location , status . Provision to update by a voulenteer or a family personnel.
 
 Emergency Services :
 
